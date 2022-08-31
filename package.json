@@ -1,0 +1,20 @@
+{
+  "name": "cursoscupeclosure",
+  "version": "1.0.0",
+  "description": "Platzi course of closure and scoupe in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianGiraldo99/cursoScupeClosure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianGiraldo99/cursoScupeClosure/issues"
+  },
+  "homepage": "https://github.com/SebastianGiraldo99/cursoScupeClosure#readme"
+}
